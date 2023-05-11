@@ -1,6 +1,6 @@
 export class Movie {
   id: number;
-  tilte: string;
+  title: string;
   year: number;
   genres: string[];
 }
